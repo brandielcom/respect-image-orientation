@@ -9,5 +9,6 @@
     ],
     "require": {
         "ext-imagick": "*"
-    }
+    },
+    "license": "MIT"
 }
