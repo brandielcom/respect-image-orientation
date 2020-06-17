@@ -1,0 +1,13 @@
+{
+    "name": "daniel/respect-image-orientation",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Hello Brandiel",
+            "email": "hello@brandiel.com"
+        }
+    ],
+    "require": {
+        "ext-imagick": "*"
+    }
+}
